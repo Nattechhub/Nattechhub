@@ -19,8 +19,8 @@
 ![Статистика GitHub Nattechhub](https://github-readme-stats.vercel.app/api?username=Nattechhub&show_icons=true&theme=radical)
 
 ## Связаться со мной
-# TG @chernozhuk
-#email nat.chernozhuk@gmail.com
+### TG @chernozhuk
+### email nat.chernozhuk@gmail.com
 
 Спасибо за посещение моего профиля на GitHub!
 
