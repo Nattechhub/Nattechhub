@@ -44,3 +44,13 @@
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
+
+### Мои проекты
+
+| Проекты на C                                                                 | Проекты на Python                                                                 |
+|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
+| [s21_matrix](https://github.com/Nattechhub/s21_matrix) – Библиотека для работы с матрицами | [kittygram_final](https://github.com/Nattechhub/kittygram_final) – Финальный проект Django |
+| [s21_decimal](https://github.com/Nattechhub/s21_decimal) – Работа с десятичными числами | [hw_python_oop](https://github.com/Nattechhub/hw_python_oop) – Модуль фитнес трекера |
+| [s21_string](https://github.com/Nattechhub/s21_string) – Реализация функций работы со строками | [api_yamdb](https://github.com/Nattechhub/api_yamdb) – API-сервис для отзывов |
+| [simple-bash-utils](https://github.com/Nattechhub/simple-bash-utils) – Утилиты командной строки | [foodgram-project-react](https://github.com/Nattechhub/foodgram-project-react) – Сервис для обмена рецептами |
+
