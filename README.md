@@ -45,12 +45,39 @@
 ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![MacOS](https://img.shields.io/badge/mac%20os-000000?style=for-the-badge&logo=apple&logoColor=white)
 
-### Мои проекты
+## 📌 Мои проекты
 
-| Проекты на C                                                                 | Проекты на Python                                                                 |
-|------------------------------------------------------------------------------|-----------------------------------------------------------------------------------|
-| [s21_matrix](https://github.com/Nattechhub/s21_matrix) – Библиотека для работы с матрицами | [kittygram_final](https://github.com/Nattechhub/kittygram_final) – Финальный проект Django |
-| [s21_decimal](https://github.com/Nattechhub/s21_decimal) – Работа с десятичными числами | [hw_python_oop](https://github.com/Nattechhub/hw_python_oop) – Модуль фитнес трекера |
-| [s21_string](https://github.com/Nattechhub/s21_string) – Реализация функций работы со строками | [api_yamdb](https://github.com/Nattechhub/api_yamdb) – API-сервис для отзывов |
-| [simple-bash-utils](https://github.com/Nattechhub/simple-bash-utils) – Утилиты командной строки | [foodgram-project-react](https://github.com/Nattechhub/foodgram-project-react) – Сервис для обмена рецептами |
+### 🖥️ Проекты на C
+
+#### [s21_matrix](https://github.com/Nattechhub/s21_matrix)  
+Библиотека на C для работы с матрицами: сложение, вычитание, умножение, транспонирование.
+
+#### [s21_decimal](https://github.com/Nattechhub/s21_decimal)  
+Библиотека для работы с десятичными числами, поддерживающая основные математические операции.
+
+#### [s21_string](https://github.com/Nattechhub/s21_string)  
+Реализация стандартных функций работы со строками.
+
+#### [simple-bash-utils](https://github.com/Nattechhub/simple-bash-utils)  
+Набор командных утилит cat и grep, реализованных на C.
+
+---
+
+### 🐍 Проекты на Python
+
+#### [kittygram_final](https://github.com/Nattechhub/kittygram_final)  
+Платформа для публикации фото и историй о котиках.
+
+#### [hw_python_oop](https://github.com/Nattechhub/hw_python_oop)  
+Реализация паттернов и объектно-ориентированных принципов.
+
+#### [api_yamdb](https://github.com/Nattechhub/api_yamdb)  
+REST API-сервис для отзывов на книги, фильмы и музыку.
+
+#### [foodgram-project-react](https://github.com/Nattechhub/foodgram-project-react)  
+Платформа для обмена рецептами.
+
+#### [api_final_yatube](https://github.com/Nattechhub/api_final_yatube)  
+Платформа для ведения блога.
+
 
